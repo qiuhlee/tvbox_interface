@@ -1,3 +1,5 @@
+> 克隆自[https://github.com/NiceZoneCoder/NiceZoneCoder.github.io](https://github.com/NiceZoneCoder/NiceZoneCoder.github.io)
+
 ## TVBOX免费看电视
 
 ### 开源项目
@@ -13,55 +15,18 @@
 ### 工具软件集
 
 - [TVbox电视版官方](http://tvbox.clbug.com/)
-- [电视盒子端软件](https://www.lanzouv.com/b03j7buub) 密码：18
-- [TV版电视盒子](https://ufoclz.lanzouy.com/b00zboiwb) 密码：2kzz
 - [电视APP大全](https://github.com/youhunwl/TVAPP)
 
-### 提供接口的大神们
-
-- 摸鱼儿接口
-- 香雅情接口
-- 饭太硬接口
-- 菜妮丝接口
-- 动漫城接口
-- HG接口
-- 欧歌接口
-- 聚玩盒子4k
-- 肥猫接口
-- 聚玩盒子
-- 毒盒接口
-- dxawi接口
-- PG接口
-- 潇洒接口
-- 俊佬接口
-- 小苹果接口
-- 王小二放牛娃
-- 宝盒接口
-- 讴歌多仓
-- 云星日记
-- 毒盒多仓
-- 应用多多多仓
-- 应用多多多线路
-- 天微多仓
 
 ### TVBox接口列表
 
 + 自用线路
 
-  - 接口: https://NiceZoneCoder.github.io/tvbox.json  
+  - 接口: 
+    - https://gh-proxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
+    - https://gh-proxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
+    - https://gh-proxy.net/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
 
-    使用以下方式代理加速
-    - [x] https://p.ntnas.top/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    - [x] https://github.moeyy.xyz/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    - [x] https://gh-proxy.com/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    - [ ] https://ghproxy.com/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    - [ ] https://ghproxy.net/https://raw.githubusercontent.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    
-    - [x] https://raw.kkgithub.com/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
-    - [x] https://fastly.jsdelivr.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
-    - [x] https://gcore.jsdelivr.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
-    - [ ] https://jsdelivr.b-cdn.net/gh/NiceZoneCoder/NiceZoneCoder.github.io@main/tvbox.json
-    - [ ] https://raw.fgit.cf/NiceZoneCoder/NiceZoneCoder.github.io/main/tvbox.json
 
 + 大佬线路
 
@@ -149,8 +114,3 @@
   Watt Toolkit 🧰 (原名 Steam++)　Watt Toolkit 官网　
    - 🔰GitHub 中文化插件　https://greasyfork.org/zh-CN/scripts/435208   
    - 🔰Github 高速下载增强　https://greasyfork.org/zh-CN/scripts/412245  
-
-
-## 最后的话
-
-感谢你来到我的奇妙世界！我希望你能在这里找到一些有趣的事物和灵感。如果你有任何问题或建议，请随时告诉我。祝你探险愉快！
