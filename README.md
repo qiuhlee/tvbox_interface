@@ -24,8 +24,8 @@
 
   - 接口: 
     - https://gh-proxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
-    - https://gh-proxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
-    - https://gh-proxy.net/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/tvbox.json
+    - https://gh-proxy.com/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/ck.json
+    - https://gh-proxy.net/https://raw.githubusercontent.com/qiuhlee/tvbox_interface/main/dc.json
 
 
 + 大佬线路
