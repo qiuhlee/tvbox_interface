@@ -1,0 +1,50 @@
+{
+    "storeHouse": [
+        {"sourceName": "Nice多仓", "sourceUrl": "https://NiceZoneCoder.github.io/ck.json"},
+        {"sourceName": "🍵金鹰多仓", "sourceUrl": "https://NiceZoneCoder.github.io/ck_jinying.json"},
+        {
+            "sourceName": "🍱挺好分享多仓",
+            "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
+        },
+        {
+            "sourceName": "🎇恒星影视多仓",
+            "sourceUrl": "http://530.my3v.work/hxck.json"
+        },
+        {
+            "sourceName": "💖心动影视多仓",
+            "sourceUrl": "http://530.my3v.work/xdck.json"
+        },
+        {
+            "sourceName": "💠水大侠影视多仓",
+            "sourceUrl": "https://gitee.com/GK_6_0/json/raw/master/json.txt"
+        },
+        {
+            "sourceName": "📺追剧吧影视多仓",
+            "sourceUrl": "https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"
+        },
+        {
+            "sourceName": "🌸荷花影视多仓",
+            "sourceUrl": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"
+        },
+        {
+            "sourceName": "游魂多仓",
+            "sourceUrl": "https://www.iyouhun.com/tv/dc"
+        },
+        {
+            "sourceName": "小盒子多仓",
+            "sourceUrl": "http://xhztv.top/dc/"
+        },
+        {
+            "sourceName": "拾光多仓",
+            "sourceUrl": "http://xmbjm.fh4u.org/dc.txt"
+        },
+        {
+            "sourceName": "七星宝盒",
+            "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+        },
+        {
+            "sourceName": "🔑本地接口",
+            "sourceUrl": "clan://localhost/box/box.txt"
+        }
+    ]
+}
